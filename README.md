@@ -5,6 +5,8 @@
 ## 📍 Sobre este curso
 Este é um curso único e você terá a chance de aprender não apenas a utilizar o Microsoft Power BI, mas **aplicar técnicas de Ciência de Dados** para gerar modelos preditivos e extrair insights para a tomada de decisões integrando Power BI com Linguagem R e Python.
 
+Por: Data Science Academy.
+
 ## 🔑 Principais Habilidades Aprendidas
 
 - Ciência de Dados
