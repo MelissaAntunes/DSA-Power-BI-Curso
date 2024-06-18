@@ -22,4 +22,4 @@ Por: Data Science Academy.
 ## 🥇 Certificado
 
 <p align="center">
-<img src="" width=80% height=80%>
+<img src="certificado/certificado.jpg" width=80% height=80%>
